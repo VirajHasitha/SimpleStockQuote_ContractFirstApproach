@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=SimpleStockQuote/\/home\/viraj\/workspaceLuna\/ContractFirstTest1\/.metadata\/.plugins\/org.wso2.developerstudio.eclipse.libraries\/lib\/axis2_1.6.1.wso2v14.jar&amp;lt;org.apache.axis2.wsdl(WSDL2C.class[WSDL2C&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=SimpleStockQuote/\/home\/viraj\/workspaceLuna\/ContractFirstTest1\/.metadata\/.plugins\/org.wso2.developerstudio.eclipse.libraries\/lib\/axis2_1.6.1.wso2v14.jar&amp;lt;org.apache.axis2.transport(SimpleAxis2Server.class[SimpleAxis2Server&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+			<item value="528" key="DIALOG_HEIGHT"/>
+			<item value="627" key="DIALOG_X_ORIGIN"/>
+			<item value="195" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>
