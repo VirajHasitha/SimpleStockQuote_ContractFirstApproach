@@ -2,3 +2,5 @@ SimpleStockQuote/target/
 SimpleStockQuoteComposite/target/
 target/
 RemoteSystemsTempFiles/
+.metadata/
+.tmp/
